@@ -1,5 +1,5 @@
 <div align='center'>
-    <a><img src='https://s21.ax1x.com/2024/03/13/pFco3Js.png' width='280px' height='270px' akt='maimaidx'></a>
+    <a><img src='http://q2.qlogo.cn/headimg_dl?dst_uin=1812509960&spec=640' width='320px' height='320px' akt='maimaidx'></a>
 </div>
 
 <div align='center'>
@@ -8,7 +8,7 @@
 
 由 [@澪度](https://qm.qq.com/q/AKKatQJnRm) 所独立开发的 基于街机游戏《舞萌DX》的便民BOT
 
-基于 [@VikiBoss](https://github.com/vikiboss) 所开发的开源 [@Keli](https://www.npmjs.com/package/keli) 框架运行
+基于项目 [@LiteloaderQQNT](https://liteloaderqqnt.github.io/) 配合 [@LiteLoaderQQNT-OneBotApi-JS](https://github.com/2891954521/LiteLoaderQQNT-OneBotApi-JS) 运行
 
 </div>
 
